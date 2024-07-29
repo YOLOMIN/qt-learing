@@ -13,3 +13,5 @@ https://www.waveshare.net/study/article-1000-1.html
 ## [19]-对话框 - https://www.waveshare.net/study/article-1023-1.html 代码:18-qml\19-1-ColorDialog
 ## [20]-滑动导航模型SwipeView - https://www.waveshare.net/study/article-1024-1.html 代码：18-qml\20-swipeView
 ## [21]-栈式导航模型StackView - https://www.waveshare.net/study/article-1025-1.html 代码：18-qml\21-StackView
+## [22]-图像image - https://www.waveshare.net/study/article-1028-1.html 代码：18-qml\22-image
+## [23]-BusyIndicator和DelayButton - https://www.waveshare.net/study/article-1034-1.html 代码: 18-qml\23-1-BusyIndicator
