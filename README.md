@@ -17,3 +17,4 @@ https://www.waveshare.net/study/article-1000-1.html
 - [23]-BusyIndicator和DelayButton - https://www.waveshare.net/study/article-1034-1.html 代码: 18-qml\23-1-BusyIndicator
 - [24]-Dial和Switch - https://www.waveshare.net/study/article-1035-1.html 代码：18-qml\24-Dial
 - [25]-Menu、Popup和Drawer - https://www.waveshare.net/study/article-1036-1.html 代码:18-qml\25-1-Drawer
+- [26]-ToolSeparator、ToolTip和Tumbler - https://www.waveshare.net/study/article-1039-1.html 代码：18-qml\27-1-ToolSeparator
